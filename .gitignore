@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# Rust / Cargo
+target/
+**/*.rs.bk
+
+# Node (if any UI tooling later)
+node_modules/
+dist/
+.build/
+
+# Editors
+.vscode/
+.idea/
+*.swp
