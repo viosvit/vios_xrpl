@@ -1,76 +1,26 @@
-# VIOS – Technical Overview  
-**Proof-of-Emotion™ Protocol for XRPL Finance**  
+# VIOS Technical Overview (XRPL)
 
-This document provides a high-level overview of the VIOS architecture, designed to integrate trust, compliance, and authorship directly into the XRP Ledger. It explains the system’s core components in plain English and references the system diagram for visual clarity.  
+**Goal:** Prove *authorship* and *intent* for finance. VIOS combines encrypted **Vaults**, **CIA™ signatures**, and **Whisper Loop™** tone capture; it anchors proofs on **XRPL** via **Hooks** and license-bearing **VITs** (Vault Identity Tokens).
 
----
+## Components
+- **Vault Protocol**: AES-256 encrypted bundle storing identity artifacts, intent proofs, and audit logs.
+- **CIA™ Signatures**: Cryptographic authorship + anti-spoof watermark stamped into each Vault artifact.
+- **Whisper Loop™**: Voice/tone capture → emotional fingerprint → intent score.
+- **VIT (XLS-20 NFT)**: Non-speculative token carrying license/expiry/royalty metadata for a Vault.
+- **Stablecoin Settlement (RLUSD)**: Compliance-friendly settlement for KYC-gated flows.
 
-## 🔑 Core Concepts  
+## XRPL Integration
+- **Hooks**: 
+  - Log Vault hashes and consent proofs on-chain
+  - Enforce royalty splits + licensing from VIT metadata
+- **XLS-20** (NFTs): Represents VITs with compliance/expiry fields
+- **DEX + AMM (when available)**: VIT-verified wallets access liquidity with reduced fraud
+- **Clawback (when available)**: Enterprise revocation of licenses
 
-- **Vault Protocol**  
-  Encrypted containers for user identity, intent, and authorship. Vaults store emotional metadata (tone, vision, authorship hash) and can be anchored to XRPL for tamper-proof compliance.  
+## Flows
+1. **Enroll**: Capture docs + tone → create Vault → CIA™ signature → encrypt → store.
+2. **Mint VIT**: Write licensing + royalty metadata; anchor Vault hash; mint XLS-20 NFT.
+3. **Transact**: RLUSD settlement; Hook validates consent + license; record proof hash.
+4. **Audit**: Export PDF/logs; verify hashes on XRPL.
 
-- **Whisper Loop™**  
-  Captures user tone and intent during onboarding and transactions. Outputs an emotional fingerprint that complements traditional KYC.  
-
-- **CIA™ Signature**  
-  Cryptographic Identity Artifact: a unique authorship hash embedded in every Vault to prove *who* created it and prevent cloning or fraud.  
-
-- **VITs (Vault Identity Tokens)**  
-  Non-speculative NFTs (XLS-20) representing Vault-verified identity licenses. Carry metadata for royalties, expiration, and usage rights.  
-
-- **XRPL Hooks**  
-  Smart triggers that enforce licensing, royalties, and consent on-chain. Hooks log Vault hashes, CIA™ signatures, and consent proofs to XRPL.  
-
-- **Stablecoin Settlement (RLUSD, Issued Assets)**  
-  Transactions within VIOS settle in Ripple’s RLUSD and other XRPL-issued stablecoins. This ensures regulatory alignment and seamless integration into DeFi and RWA tokenization flows.  
-
----
-
-## 🏗️ How It Works (Step-by-Step Flow)  
-
-1. **User Onboarding**  
-   - User speaks into Whisper Loop™ → emotional fingerprint generated.  
-   - Vault is created, encrypted, and signed with CIA™.  
-
-2. **Vault Anchoring**  
-   - Vault hash + CIA™ signature written to XRPL via Hooks.  
-   - A Vault Identity Token (VIT) is minted to represent the user’s verified identity.  
-
-3. **Transaction Execution**  
-   - When user transacts in DeFi, RWA, or payments, Hooks enforce:  
-     - Consent routing  
-     - Licensing rules  
-     - Royalty splits  
-
-4. **Settlement**  
-   - Transaction settles in RLUSD or another XRPL stablecoin.  
-   - Vault event + royalty metadata is immutably logged on XRPL.  
-
-5. **Compliance & Trust**  
-   - Partners (banks, exchanges, fintechs) can verify:  
-     - Authorship (CIA™)  
-     - Intent (Whisper Loop™)  
-     - Licensing rights (VIT metadata)  
-   - Without ever accessing private Vault data.  
-
----
-
-## 🎯 Why XRPL?  
-
-- **Low Fees + High Throughput** – Supports millions of micro-records (Vault hashes, consent logs, royalties).  
-- **Native DEX + Payments** – Allows direct flow from Emotion-KYC™ into compliant DeFi/RWA.  
-- **Upcoming Amendments** – Clawback enables revocable licenses; AMM unlocks dynamic royalty markets.  
-
----
-
-## 📊 Diagram Reference  
-
-See **`VIOS_XRPL_System_Diagram.pdf`** in this folder for a layered view of the architecture.  
-From User → Whisper Loop™ → CIA™ Signature → Vault Protocol → XRPL Hooks → Stablecoin Settlement → Markets/Exchanges.  
-
----
-
-## 📌 Summary  
-
-VIOS transforms KYC into **Emotion-KYC™** — proving *who acted, what they intended, and under what licensed terms*. Anchored to XRPL, this creates the first emotional-authorship trust layer for global finance.  
+See diagram: `docs/VIOS_XRPL_System_Diagram.pdf`.
