@@ -136,3 +136,4 @@ It anchors encrypted Vaults, CIA™ authorship hashes, and Emotion-KYC™ flows 
 cargo run --bin demo_vault
 1394cbb (chore: initial clean repo setup with docs + structure)
  
+ 
