@@ -90,11 +90,18 @@ Ashley Cody — Senior Analyst, Compliance & Systems
 
 Wayne Cody — Senior Engineer, Advisor
 
-## ⚖️ Licensing
+## ⚖️ Licensing  
 
-- **Open Core (Vaults, Hooks, XRPL SDKs)** → Licensed under [Apache 2.0](./LICENSE) for developer adoption and contribution.  
-- **Proprietary Extensions (Whisper Loop™, CIA™, REEM™, Enterprise SDKs)** → Licensed under [Commercial License](./LICENSE_COMMERCIAL.md).  
-- See [docs/plain-English LICENSE_NOTICE.md](./docs/plain-English%20LICENSE_NOTICE.md) for a non-legal summary.
+VIOS is released under a **dual-license model**:  
+
+- **Open Core (Apache 2.0)**  
+  The base protocol (Vaults, XRPL Hooks, SDKs) is open-source and free to use under the Apache 2.0 license.  
+
+- **Proprietary Extensions (Commercial License)**  
+  Advanced components — Whisper Loop™, CIA™ Signatures, REEM™, enterprise SDKs — require a commercial license from **M A Squared LLC**.  
+
+👉 For clarity, see our [Plain-English License Notice](docs/plain-English_LICENSE_NOTICE.md).  
+
 
 🌐 Links
 
