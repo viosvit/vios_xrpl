@@ -1,3 +1,4 @@
+
 # VIOS – Proof-of-Emotion™ Protocol for XRPL Finance  
 
 [![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)  
@@ -110,3 +111,27 @@ GitHub: vios_xrpl
 Project Website: Coming soon
 
 ⚡ VIOS is building the emotional trust layer for XRPL — the first protocol that proves not just who transacts, but what they intend.
+
+# VIOS – Proof-of-Emotion™ Protocol for XRPL Finance
+
+## 🚀 Overview
+VIOS is the Proof-of-Emotion™ Protocol — the world’s first identity and compliance system that verifies **who you are** and **what you intend**.  
+It anchors encrypted Vaults, CIA™ authorship hashes, and Emotion-KYC™ flows directly on the **XRP Ledger**.
+
+## ✨ Key Features
+- **Vault Encryption (AES-256 + CIA™ signatures)** – tamper-proof memory & identity storage  
+- **Whisper Loop™ Tone Detection** – real-time intent verification  
+- **Emotion-KYC™** – compliance-ready onboarding for DeFi, RWA, and payments  
+- **XRPL Hooks Integration** – consent proofs, licensing metadata, and royalty enforcement  
+- **VITs (Vault ID Tokens)** – non-speculative NFTs carrying licensing + compliance rules  
+
+## 📂 Repo Structure
+- `src/` – Core modules (Vaults, CIA, Whisper Loop, XRPL integration)
+- `demo/` – Minimal prototype demo (CLI + Streamlit)
+- `docs/` – System diagrams & whitepaper excerpts
+- `tests/` – Unit tests
+
+## 🛠 How to Run (Demo)
+```bash
+cargo run --bin demo_vault
+1394cbb (chore: initial clean repo setup with docs + structure)
