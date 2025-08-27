@@ -2,13 +2,13 @@
 
 [![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)  
 [![XRPL Ready](https://img.shields.io/badge/XRPL-Integration-blue?logo=ripple&logoColor=white)](https://xrpl.org/)  
-[![License: Apache 2.0 + Commercial Extensions](https://img.shields.io/badge/License-Apache%202.0%20+%20Commercial-critical.svg)](LICENSE)  
+[![License: Apache 2.0 Core](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)  
+[![License: Commercial Extensions](https://img.shields.io/badge/License-Commercial-red.svg)](LICENSE_COMMERCIAL.md)  
 [![Status: Prototype](https://img.shields.io/badge/Status-Prototype-yellow)]()  
 [![Docs](https://img.shields.io/badge/Docs-Available-purple?logo=readthedocs&logoColor=white)](docs/TECHNICAL_OVERVIEW.md)  
 [![Security: CIA™](https://img.shields.io/badge/Security-CIA%E2%84%A2%20Signatures-black)]()  
 
-
-⚡ The Emotional Trust Layer for Global Finance — Built on XRPL
+⚡ *The Emotional Trust Layer for Global Finance — Built on XRPL*  
 
 Emotion-KYC™ ensures not only who a user is but what they intend — anchoring authorship, compliance, and consent directly on-chain.
 
