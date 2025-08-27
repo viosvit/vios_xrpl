@@ -90,26 +90,11 @@ Ashley Cody — Senior Analyst, Compliance & Systems
 
 Wayne Cody — Senior Engineer, Advisor
 
-⚖️ Licensing
+## ⚖️ Licensing
 
-Core Protocol (Vaults, Hooks, XRPL integration, base SDK): Licensed under Apache 2.0
- — open for developer adoption and community contribution.
-
-Proprietary Extensions:
-
-Whisper Loop™
-
-CIA™ Signatures
-
-REEM™ Protocol
-
-Enterprise SDKs
-
-These modules are licensed separately under Commercial License
-.
-They remain the sovereign IP of M A Squared LLC and require executed licensing agreements for enterprise or financial use.
-
-⚠️ This dual-license model balances open innovation with IP sovereignty, ensuring Ripple and XRPL partners benefit from an open protocol core while preserving defensibility of unique VIOS innovations.
+- **Open Core (Vaults, Hooks, XRPL SDKs)** → Licensed under [Apache 2.0](./LICENSE) for developer adoption and contribution.  
+- **Proprietary Extensions (Whisper Loop™, CIA™, REEM™, Enterprise SDKs)** → Licensed under [Commercial License](./LICENSE_COMMERCIAL.md).  
+- See [docs/plain-English LICENSE_NOTICE.md](./docs/plain-English%20LICENSE_NOTICE.md) for a non-legal summary.
 
 🌐 Links
 
