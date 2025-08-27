@@ -1,22 +1,25 @@
-# VIOS Commercial License Agreement
+# Commercial License – VIOS Proprietary Extensions
 
-This software includes proprietary modules developed and owned by **M A Squared LLC**.  
-These modules include but are not limited to:  
-- Whisper Loop™ (tone capture & emotional fingerprinting)  
-- CIA™ (Coded Identity Artifact) Signatures  
-- REEM™ Protocol  
-- Enterprise SDKs and Vault-as-a-Service™ APIs  
+This Commercial License applies to proprietary components of the VIOS Protocol, including but not limited to:
 
-## Usage
-These components are **not open-source** and are licensed separately from the Apache 2.0 open core.  
-Commercial licensing terms must be obtained directly from M A Squared LLC.  
+- Whisper Loop™  
+- CIA™ (Coded Identity Artifact)  
+- REEM™ (Resonant Emotion Encoding Mechanism)  
+- Enterprise SDKs and premium tooling  
+
+## Rights Granted
+M A Squared LLC grants the licensee the right to use, integrate, and distribute the proprietary components of VIOS **only under a valid commercial license agreement** signed with M A Squared LLC.
 
 ## Restrictions
-- No redistribution, sublicensing, or derivative works of proprietary modules without written consent.  
-- No use of proprietary modules in competing commercial offerings.  
-- Research and academic use requires prior written approval.  
+- You may not copy, modify, or distribute the proprietary components without written permission.  
+- You may not sublicense, resell, or embed the proprietary components in competitive products.  
+- Unauthorized use is strictly prohibited and may result in legal action.  
+
+## Evaluation Use
+Proprietary extensions may be used **for evaluation purposes only** without a signed commercial license. Evaluation use must not be for production or commercial purposes.  
 
 ## Contact
-For licensing inquiries, enterprise partnerships, or commercial terms, please contact:  
-📧 **mrmovein937@gmail.com**  
-🏢 **M A Squared LLC**
+To obtain a commercial license, please contact:  
+📧 licensing@masquaredllc.com  
+
+© 2025 M A Squared LLC. All rights reserved.
