@@ -1,34 +1,16 @@
-📜 License Notice – VIOS Protocol
+# Plain-English License Notice
 
-The VIOS Protocol is distributed under a dual-license model:
+The VIOS protocol is **dual-licensed**:
 
-1. Open Core (Apache 2.0)
+- **Apache 2.0 (Open Core)**  
+  You are free to use, modify, and contribute to the **core protocol** (Vaults, XRPL Hooks, SDKs) under the Apache 2.0 license. This ensures openness and community adoption.
 
-The foundation of VIOS (Vaults, XRPL Hooks, VITs, SDK) is open-source.
+- **Commercial License (Proprietary Extensions)**  
+  Certain advanced components — Whisper Loop™, CIA™ Signatures, REEM™, and enterprise SDKs — are **not open-source**. These require a commercial license from M A Squared LLC.  
 
-Licensed under Apache 2.0
- for developer freedom, contribution, and integration into the XRPL ecosystem.
+- **Why?**  
+  This protects our IP while still enabling the XRPL and open-source community to build on top of VIOS.  
+  Developers can use the open core freely, and enterprises can license premium modules as needed.
 
-Anyone can build, test, and extend these components.
+📧 Contact: licensing@masquaredllc.com
 
-2. Proprietary Modules (Commercial License)
-
-Advanced components — Whisper Loop™, CIA™ Signatures, REEM™, and enterprise SDKs — are proprietary intellectual property of M A Squared LLC.
-
-Licensed separately under Commercial License
-.
-
-These modules are required for production-grade Emotion-KYC™ deployments, enterprise compliance, and royalty-bearing Vault infrastructure.
-
-Why Dual-License?
-
-Open → We want developers and XRPL builders to adopt VIOS freely.
-
-Protected → Our unique IP (emotional authorship, intent verification, royalty layers) must remain sovereign and controlled for ethical + commercial integrity.
-
-Contact
-
-For enterprise licensing or commercial partnership inquiries:
-📧 mrmovein937@gmail.com
-
-🏢 M A Squared LLC
