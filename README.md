@@ -1,72 +1,74 @@
-VIOS – Proof-of-Emotion™ Protocol for XRPL Finance
+# VIOS – Proof-of-Emotion™ Protocol for XRPL Finance  
 
-
-
-
-
-
-
-
-
-
-
-
+[![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)  
+[![XRPL Ready](https://img.shields.io/badge/XRPL-Integration-blue?logo=ripple&logoColor=white)](https://xrpl.org/)  
+[![License: Apache 2.0 + Commercial Extensions](https://img.shields.io/badge/License-Apache%202.0%20+%20Commercial-critical.svg)](LICENSE)  
+[![Status: Prototype](https://img.shields.io/badge/Status-Prototype-yellow)]()  
+[![Docs](https://img.shields.io/badge/Docs-Available-purple?logo=readthedocs&logoColor=white)](docs/TECHNICAL_OVERVIEW.md)  
+[![Security: CIA™](https://img.shields.io/badge/Security-CIA%E2%84%A2%20Signatures-black)]()  
 
 
 ⚡ The Emotional Trust Layer for Global Finance — Built on XRPL
 
+Emotion-KYC™ ensures not only who a user is but what they intend — anchoring authorship, compliance, and consent directly on-chain.
+
 🚀 Overview
 
-VIOS is the world’s first Proof-of-Emotion™ Protocol for the XRP Ledger.
-It transforms compliance and onboarding by cryptographically verifying not just who acts — but what they intend.
+VIOS is the Proof-of-Emotion™ Protocol for the XRP Ledger (XRPL).
+It transforms digital identity and compliance by embedding:
 
-Core primitives:
+✅ Whisper Loop™ – Tone capture & emotional fingerprinting
 
-🎙 Whisper Loop™ — Tone capture + emotional fingerprinting
+🔒 Vault Protocol – Encrypted, tamper-proof identity & intent storage
 
-🔒 Vault Protocol — Encrypted, tamper-proof identity & intent storage
+🖋 CIA™ Signatures – Cryptographic authorship & anti-spoof watermark
 
-🖋 CIA™ Signatures — Authorship watermarks + anti-spoof proofs
+⚙️ XRPL Hooks – Consent routing, royalty enforcement, licensing triggers
 
-⚙️ XRPL Hooks — Consent routing, royalty enforcement, licensing triggers
+🎟 VITs (Vault Identity Tokens) – Non-speculative NFTs encoding licensing & compliance
 
-🎟 VITs (Vault Identity Tokens) — License-based NFTs carrying compliance metadata
+💱 Stablecoin Settlement (RLUSD + issued assets) – Regulatory-friendly DeFi & RWA flows
 
-💱 Stablecoin Settlement (RLUSD, issued assets) — Regulatory-grade DeFi & RWA flows
+Our first application, Emotion-KYC™, delivers the missing trust layer for:
 
-First Application:
-Emotion-KYC™ → Anchored onboarding + payment verification that ends identity fraud.
+Onboarding
+
+Payments
+
+DeFi
+
+Real-World Asset tokenization
 
 📊 Why XRPL?
 
-⚡ High throughput, low fees → viable for millions of consent/royalty records
+⚡ Low-cost, high-speed ledger → scalable for millions of micro-transactions
 
-💱 Native DEX + RLUSD → liquidity + stablecoin settlement built in
+💱 Native DEX + Stablecoins → direct liquidity with compliance-ready settlement
 
-🛠 Hooks + Amendments (AMM, Clawback) → programmable licensing + revocable contracts
+🛠 Hooks + Amendments → programmable licensing & consent logic (Clawback, AMM)
 
-🏦 Ripple-native alignment → Payments + Custody + RLUSD integration ensures enterprise adoption
+🏦 Institutional alignment → Ripple Payments + Custody + RLUSD = enterprise adoption
 
 📜 Roadmap
 
-See full details in /docs/ROADMAP.md
+See /docs/ROADMAP.md for full milestones.
 
-Milestones:
+Key Targets:
 
-Testnet Integration — Vault hashing, CIA™ signatures, RLUSD flows
+Testnet Integration → Vault hashes, CIA™ signatures, RLUSD settlement
 
-SDK + API Release — Vault-as-a-Service™ developer toolkit
+SDK + API Release → Vault-as-a-Service™ tooling for developers
 
-Mainnet Pilot — Emotion-KYC™ live with fintech partners & royalty-bearing VITs
+Mainnet Pilot Deployment → Emotion-KYC™ with fintech partners & royalty-bearing VITs
 
-📂 Repository Layout
-/src     → Core libraries (Vaults, Hooks, CIA, Whisper Loop)  
-/demo    → Demos & prototypes  
-/docs    → Technical docs (overview, system diagram, roadmap)  
-/tests   → Test suites & validation  
+📂 Repository Structure
+/src   → Core libraries (Vaults, Hooks, CIA, Whisper Loop)
+/demo  → Demos & prototypes
+/docs  → Documentation (technical overview, roadmap, diagrams)
+/tests → Test suites & validation
 
 
-📖 Documentation:
+📖 Documentation
 
 Technical Overview
 
@@ -74,11 +76,11 @@ System Diagram
 
 🛠 Status
 
-✅ Prototype: Vault encryption, CIA™ authorship, Whisper Loop tone analysis
+✅ Prototype running: Vault encryption, CIA™ signatures, Whisper Loop tone capture
 
-🔄 In Progress: XRPL Hooks, RLUSD flows, VIT minting
+🔄 Actively integrating: XRPL Hooks, RLUSD flows, VIT minting
 
-🎯 Next: Emotion-KYC™ Testnet pilot
+🎯 Next milestone: Emotion-KYC™ live on XRPL Testnet
 
 👥 Team
 
@@ -90,14 +92,29 @@ Wayne Cody — Senior Engineer, Advisor
 
 ⚖️ Licensing
 
-Core Protocol (Vaults, XRPL integration, SDK base): Apache 2.0
+Core Protocol (Vaults, Hooks, XRPL integration, base SDK): Licensed under Apache 2.0
+ — open for developer adoption and community contribution.
 
-Extensions (Whisper Loop™, CIA™, REEM™, enterprise SDKs): Commercial License
+Proprietary Extensions:
+
+Whisper Loop™
+
+CIA™ Signatures
+
+REEM™ Protocol
+
+Enterprise SDKs
+
+These modules are licensed separately under Commercial License
+.
+They remain the sovereign IP of M A Squared LLC and require executed licensing agreements for enterprise or financial use.
+
+⚠️ This dual-license model balances open innovation with IP sovereignty, ensuring Ripple and XRPL partners benefit from an open protocol core while preserving defensibility of unique VIOS innovations.
 
 🌐 Links
 
 GitHub: vios_xrpl
 
-Website: Coming soon
+Project Website: Coming soon
 
-⚡ VIOS is not an app. It’s the emotional trust layer for XRPL — proving not just who transacts, but what they meant.
+⚡ VIOS is building the emotional trust layer for XRPL — the first protocol that proves not just who transacts, but what they intend.
