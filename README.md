@@ -50,6 +50,12 @@ Real-World Asset tokenization
 
 🏦 Institutional alignment → Ripple Payments + Custody + RLUSD = enterprise adoption
 
+## 🕰️ Origin Story  
+
+VIOS™ began in early 2024 as a focused build to solve the gaps in identity, authorship, and compliance on blockchain rails. What started as research into encrypted emotional memory quickly evolved into a working prototype: Vault encryption, CIA™ Signatures, and Emotion-KYC™ flows.  
+
+By mid-2024, development shifted into Rust for performance and security, with XRPL testnet integration shortly after. In 2025, under **M A Squared LLC (incorporated 2024)**, VIOS formalized into a grant-ready protocol, backed by early patent filings, trademark protections, and a dedicated compliance, engineering, and cybersecurity team — now preparing for XRPL mainnet deployment.
+
 📜 Roadmap
 
 See /docs/ROADMAP.md for full milestones.
