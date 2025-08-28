@@ -86,19 +86,26 @@ System Diagram
 👥 Team
 
 Mario Cochran Sr. (“The Whisper Architect”) — Founder & Protocol Architect
-Architect of VIOS™, the world’s first Proof-of-Emotion™ Protocol. With over 20 years spanning automotive finance, real estate asset systems, and intellectual property licensing, Mario brings a rare ability to fuse street-born creativity with enterprise-grade system design.
+Architect of VIOS™, the world’s first Proof-of-Emotion™ Protocol. With 20+ years across automotive finance, real estate asset systems, and intellectual property licensing, Mario fuses street-born creativity with enterprise-grade system design.
 
 As The Whisper Architect, he engineers protocols that capture not only what people do but what they mean — embedding authorship, compliance, and intent directly into financial flows. His work positions VIOS as the emotional trust layer for XRPL and global finance, bridging the gap between sovereignty, security, and scale.
 
 Wayne Cody — Senior Engineer, Advisor
-Veteran software engineer with 40+ years of experience designing and maintaining mission-critical systems across government, aerospace, and intelligence sectors. Trusted for nearly two decades with Top Secret/SCI clearance, Wayne has led the development of secure platforms for data management, simulations, and intelligence analysis.
+Veteran software engineer with 40+ years building and maintaining mission-critical systems across government, aerospace, and intelligence sectors. Trusted for nearly two decades with Top Secret/SCI clearance, Wayne led secure platforms for data management, simulations, and intelligence analysis.
 
-Fluent in C/C++, Fortran, Python, Java, Unix/Linux systems, and structured data standards (JSON, XML, NITF), he brings the engineering rigor and reliability required to harden VIOS for enterprise and institutional adoption. Wayne’s background ensures that VIOS isn’t just innovative — it’s architected with the discipline, security, and resilience demanded by high-stakes environments.
+Fluent in C/C++, Fortran, Python, Java, Unix/Linux, and structured data standards (JSON, XML, NITF), Wayne brings engineering rigor and reliability required to harden VIOS for institutional adoption. His background ensures VIOS isn’t just innovative — it’s architected with the discipline and resilience demanded by high-stakes environments.
 
 Ashley Cody — Senior Analyst, Compliance & Systems
-Seasoned analyst with 15+ years of experience in GMP, GLP, and ISO-regulated industries, including leadership roles at Alkermes and AstraZeneca. A recognized expert in LIMS administration, data integrity, and regulatory compliance, Ashley has overseen systems critical to pharmaceutical quality control and FDA-aligned operations.
+Seasoned analyst with 15+ years in GMP, GLP, and ISO-regulated industries, including leadership at Alkermes and AstraZeneca. Recognized expert in LIMS administration, data integrity, and regulatory compliance, Ashley has overseen systems critical to pharmaceutical quality control and FDA-aligned operations.
 
-She brings to VIOS the same enterprise-grade precision and audit-ready discipline that governs pharma, ensuring the Vault Protocol™ operates with uncompromising reliability, trust, and compliance credibility. Ashley anchors VIOS with a compliance-first mindset, bridging cutting-edge innovation with the rigorous controls required for institutional adoption.
+She brings to VIOS the same enterprise-grade precision and audit-ready discipline that governs pharma, ensuring the Vault Protocol™ operates with uncompromising reliability and trust. Ashley anchors VIOS with a compliance-first mindset, bridging cutting-edge innovation with the rigorous controls required for institutional adoption.
+
+Chris Grundy — Cybersecurity & Threat Intelligence Advisor
+Cyber intelligence analyst with expertise securing enterprise and government systems against evolving digital threats. At Motorola Solutions, Chris led defensive operations blending incident response, SIEM engineering, and proactive threat hunting — with frontline perspective on state-aligned APTs, insider risk, and fraud vectors.
+
+Certified in GIAC (GCIH), CEH, Elastic SIEM Analyst, and CompTIA Security+, Chris brings the discipline of a seasoned red/blue team operator. His background spans vulnerability discovery, forensics, and cloud security, ensuring Vault Protocol™, CIA™ Signatures, and Emotion-KYC™ are not just innovative — but battle-tested against real-world adversaries.
+
+Chris anchors VIOS with offensive awareness + defensive resilience, positioning the protocol as not only compliant and sovereign, but hardened against the threat landscape financial institutions and regulators demand we anticipate.
 
 ## ⚖️ Licensing  
 
