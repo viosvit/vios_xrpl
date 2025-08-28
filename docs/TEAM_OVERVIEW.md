@@ -41,3 +41,19 @@ Aerospace & Defense → Designed PED workbenches, report tools, GUIs, and simula
 Security-Cleared Leadership → Held Top Secret/SCI clearance since 1986, building systems trusted at the highest national-security levels.
 
 Wayne provides long-view engineering discipline, advising VIOS on scaling with the same rigor and resilience demanded in defense and aerospace. His presence reinforces institutional credibility and technical depth for partners evaluating protocol reliability.
+
+Chris Grundy — Cybersecurity & Threat Intelligence Advisor
+
+Cyber Intelligence Analyst at Motorola Solutions, with certifications including:
+
+GIAC Certified Incident Handler (GCIH)
+
+Certified Ethical Hacker (CEH)
+
+Elastic Certified SIEM Analyst
+
+CompTIA Security+, Server+, A+
+
+Chris fortifies VIOS with real-world cyber defense expertise, ensuring Vaults, Hooks, and VITs are hardened against modern threat actors — from insider fraud to state-level APTs.
+
+⚡ Together, this team blends protocol invention, compliance rigor, aerospace resilience, and cyber defense credibility — making VIOS the emotional trust layer XRPL can scale globally with confidence.
