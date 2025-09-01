@@ -1,5 +1,5 @@
 # VIOS – Proof-of-Emotion™ Protocol for XRPL Finance  
-Started in 2024 as a research prototype (Vaults, CIA™ Signatures, Emotion-KYC™), now grant-ready under M A Squared LLC (incorporated 2022) with IP filings, Rust core, and XRPL testnet integration. Preparing for mainnet deployment.
+Started in 2024 as a research prototype (Vaults, CIA™ Signatures, Emotion-KYC™), now grant-ready under M A Squared LLC (incorporated 2024) with IP filings, Rust core, and XRPL testnet integration. Preparing for mainnet deployment.
 
 [![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)  
 [![XRPL Ready](https://img.shields.io/badge/XRPL-Integration-blue?logo=ripple&logoColor=white)](https://xrpl.org/)  
